@@ -1,5 +1,5 @@
 # Reformatting CSVs
-## Christina Aiello, 2020, Protected under MIT License
+*Christina Aiello, 2020, Protected under MIT License*
 
 Boyfriend needed to reformat some giant CSV files he had, and he was doing it by hand.
 He had data with one timestamp column with numerous timestamps in it, columns that represented different data point types, and values in each column representing the value for that data point at that timestamp. 
